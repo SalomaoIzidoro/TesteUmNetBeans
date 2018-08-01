@@ -19,6 +19,7 @@ public class JavaApplication60 {
         
         System.out.println("Hello world! Is we, heuheuehue :p");
         System.out.println("Era uma vez, um lugarzinho no meio do nada");
+        System.out.println("Modificado no NetBeans! :p");
     }
     
 }
